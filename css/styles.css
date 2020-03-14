@@ -1,0 +1,137 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+}
+
+h1 {
+/*top right bottom left*/
+margin: 50px auto 0 auto;
+font-family: 'Pacifico', cursive;
+font-size: 5.625rem;
+color: #66BFBF;
+font-weight: normal;
+}
+
+h2 {
+  line-height: 2;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #ecfbfc;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.itnerd {
+  width: 15%;
+  margin-top: 75px;
+}
+
+.short-text {
+  width: 30%;
+  line-height: 2;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  color: #40514E;
+}
+
+.dotted-line {
+  border: none;
+  border-top: dotted;
+  border-color: #dadddf;
+  background-color: none;
+  border-width: .4em;
+  width: 50px;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 75px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.infotech {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.languages {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  margin-bottom: 75px;
+}
+
+.contact-headline {
+  margin-bottom: 50px;
+}
+
+.btn {
+  text-decoration: none;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  background-image: linear-gradient(#beebe9, #66BFBF);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #11999E;
+  font-style: normal;
+  font-size: 16px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+a:hover {
+  color: white;
+}
+
+.copyright {
+  color: white;
+  font-style: normal;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
